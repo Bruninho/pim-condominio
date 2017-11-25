@@ -1,0 +1,17 @@
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\Pim - Desktop.exe.config
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\Pim - Desktop.exe
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\Pim - Desktop.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\PIM.Database.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\PIM.Service.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\PIM.Database.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\PIM.Database.dll.config
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\PIM.Service.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim___Desktop.Form1.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim___Desktop.Properties.Resources.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.csproj.GenerateResource.Cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.exe
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.pdb
