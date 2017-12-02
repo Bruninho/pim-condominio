@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pim - Desktop", "Pim - Desktop\Pim - Desktop.csproj", "{A53A73C6-F137-4EB8-B6E9-7124F970926E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pim - Desktop", "Pim - Desktop.csproj", "{A53A73C6-F137-4EB8-B6E9-7124F970926E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5037CD58-9EAC-403A-8300-59DF69B0276F}
+		SolutionGuid = {B981737F-B25F-423B-BAE2-25B06AC3CC46}
 	EndGlobalSection
 EndGlobal

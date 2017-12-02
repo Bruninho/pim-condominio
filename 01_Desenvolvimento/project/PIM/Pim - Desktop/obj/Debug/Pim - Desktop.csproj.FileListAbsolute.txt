@@ -15,3 +15,19 @@ C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj
 C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.exe
 C:\Users\Bruno\pim-condominio\01_Desenvolvimento\Pim - Desktop\Pim - Desktop\obj\Debug\Pim - Desktop.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\bin\Debug\Pim - Desktop.exe.config
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\bin\Debug\Pim - Desktop.exe
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\bin\Debug\Pim - Desktop.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmCadastrarMorador.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmLogin.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.Properties.Resources.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim - Desktop.csproj.GenerateResource.Cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim - Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim - Desktop.exe
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim - Desktop.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmAdministrarCondominio.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmAdministrador.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmMorador.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmPorteiro.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim___Desktop.frmCadastrarColaborador.resources
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\Pim - Desktop\obj\Debug\Pim - Desktop.csprojResolveAssemblyReference.cache

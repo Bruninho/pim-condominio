@@ -40,6 +40,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,16 +52,70 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmAdministrarCondominio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmAdministrarCondominio.Designer.cs">
+      <DependentUpon>frmAdministrarCondominio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarColaborador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarColaborador.Designer.cs">
+      <DependentUpon>frmCadastrarColaborador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarMorador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarMorador.Designer.cs">
+      <DependentUpon>frmCadastrarMorador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.Designer.cs">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMorador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMorador.Designer.cs">
+      <DependentUpon>frmMorador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPorteiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPorteiro.Designer.cs">
+      <DependentUpon>frmPorteiro.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="frmAdministrarCondominio.resx">
+      <DependentUpon>frmAdministrarCondominio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarColaborador.resx">
+      <DependentUpon>frmCadastrarColaborador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarMorador.resx">
+      <DependentUpon>frmCadastrarMorador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMorador.resx">
+      <DependentUpon>frmMorador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPorteiro.resx">
+      <DependentUpon>frmPorteiro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -70,6 +125,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -83,6 +139,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\botão salvar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

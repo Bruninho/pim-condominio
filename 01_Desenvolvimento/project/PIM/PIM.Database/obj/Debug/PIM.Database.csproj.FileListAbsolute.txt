@@ -8,3 +8,13 @@ C:\Sandbox\github\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin
 C:\Sandbox\github\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\EntityFramework.SqlServer.xml
 C:\Sandbox\github\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\obj\Debug\PIM.Database.dll
 C:\Sandbox\github\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\obj\Debug\PIM.Database.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\PIM.Database.dll.config
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\PIM.Database.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\PIM.Database.pdb
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\obj\Debug\PIM.Database.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\obj\Debug\PIM.Database.dll
+C:\Users\Bruno\pim-condominio\01_Desenvolvimento\project\PIM\PIM.Database\obj\Debug\PIM.Database.pdb
