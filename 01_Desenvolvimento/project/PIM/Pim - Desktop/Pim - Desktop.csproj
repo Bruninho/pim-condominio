@@ -70,6 +70,12 @@
     <Compile Include="frmCadastrarMorador.Designer.cs">
       <DependentUpon>frmCadastrarMorador.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDependente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDependente.Designer.cs">
+      <DependentUpon>frmDependente.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,11 +94,23 @@
     <Compile Include="frmMorador.Designer.cs">
       <DependentUpon>frmMorador.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmOcorrencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOcorrencia.Designer.cs">
+      <DependentUpon>frmOcorrencia.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPorteiro.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmPorteiro.Designer.cs">
       <DependentUpon>frmPorteiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisitante.Designer.cs">
+      <DependentUpon>frmVisitante.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -105,6 +123,9 @@
     <EmbeddedResource Include="frmCadastrarMorador.resx">
       <DependentUpon>frmCadastrarMorador.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmDependente.resx">
+      <DependentUpon>frmDependente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
@@ -114,8 +135,14 @@
     <EmbeddedResource Include="frmMorador.resx">
       <DependentUpon>frmMorador.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmOcorrencia.resx">
+      <DependentUpon>frmOcorrencia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmPorteiro.resx">
       <DependentUpon>frmPorteiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisitante.resx">
+      <DependentUpon>frmVisitante.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

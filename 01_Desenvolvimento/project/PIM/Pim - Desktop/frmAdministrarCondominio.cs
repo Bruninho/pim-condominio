@@ -1,4 +1,6 @@
-﻿using System;
+﻿using PIM.Database.TO;
+using PIM.Service.Services;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,6 +23,15 @@ namespace Pim___Desktop
         {
             frmCadastrarMorador cadastrarMorador = new frmCadastrarMorador();
             cadastrarMorador.Show();
+        }
+
+        private void tabCadMorador_Click(object sender, EventArgs e)
+        {
+            ListaMoradorTO x = new ListaMoradorTO();
+
+            x = MoradorService.Listar();
+
+            lstMoradores.Items.Add(x.Lista.ToString());
         }
     }
 }

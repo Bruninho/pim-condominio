@@ -1,4 +1,6 @@
-﻿using System;
+﻿using PIM.Database.TO;
+using PIM.Service.Services;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,5 +18,12 @@ namespace Pim___Desktop
         {
             InitializeComponent();
         }
+
+        private void btnSalvarColaborador_Click(object sender, EventArgs e)
+        {
+            ColaboradorTO a = new ColaboradorTO();
+            a.Nome = txtNomeColab.Text;
+        }
+
     }
 }

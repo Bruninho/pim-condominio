@@ -213,6 +213,7 @@
             this.btnSalvarColaborador.TabIndex = 28;
             this.btnSalvarColaborador.Text = "Salvar";
             this.btnSalvarColaborador.UseVisualStyleBackColor = true;
+            this.btnSalvarColaborador.Click += new System.EventHandler(this.btnSalvarColaborador_Click);
             // 
             // frmCadastrarColaborador
             // 

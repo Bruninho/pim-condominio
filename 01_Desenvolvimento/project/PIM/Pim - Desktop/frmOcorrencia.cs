@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Pim___Desktop
 {
-    public partial class frmMorador : Form
+    public partial class frmOcorrencia : Form
     {
-        public frmMorador()
+        public frmOcorrencia()
         {
             InitializeComponent();
-        }
-
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
